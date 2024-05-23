@@ -1,0 +1,2 @@
+- Use http  - Change https://Localhost:44465 to http://Localhost:44465 
+- server Angular at specified port - change package.json "start" : "ng serve --port 44465"
